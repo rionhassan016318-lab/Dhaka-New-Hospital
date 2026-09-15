@@ -1,0 +1,6 @@
+{
+  "name": "Dhaka New Hospital",
+  "description": "Dhaka New Hospital - Leading multi-specialty healthcare and diagnostics hospital in Dhaka with 24/7 emergency care, specialist OPD, CAP-standard lab diagnostics, and doorstep sample collection.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
